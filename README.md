@@ -1,5 +1,1 @@
-# linux-course
-
-# Welcome to my website!
-
-# References
+# Linux kurssi!
